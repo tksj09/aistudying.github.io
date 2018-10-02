@@ -7,7 +7,6 @@ tags: ubuntu caffe cuda nvidia
 author: Daniel
 ---
 
-sssss
 ## 安装驱动
 ### 准备工作
 * 禁用nouveau
