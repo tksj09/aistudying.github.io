@@ -76,7 +76,7 @@ cd caffe
 pip install -r python/requirements.txt
 ```
 * 安装``nccl``
-从https://github.com/NVIDIA/nccl下载nccl
+从 https://github.com/NVIDIA/nccl 下载nccl
 ```bash
 unzip nccl-master.zip
 cd nccl-master
@@ -87,7 +87,7 @@ nccl默认安装在/usr/local/cuda/lib，可以手动复制到/usr/local/cuda/li
 sudo cp -ar /usr/local/cuda/lib/* /usr/local/cuda/lib64
 ```
 * 安装nvcaffe
-从https://github.com/NVIDIA/caffe下载nv优化过的caffe后解压
+从 https://github.com/NVIDIA/caffe 下载nv优化过的caffe后解压
 ```bash
 unzip caffe-caffe-0.15.zip
 cd caffe-caffe-0.15
