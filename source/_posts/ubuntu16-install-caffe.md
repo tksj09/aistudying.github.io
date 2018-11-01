@@ -2,8 +2,13 @@
 layout: post
 title:  "Ubuntu16安装caffe"
 date:   2018-05-24 15:51:22
-categories: DeepLearning
-tags: ubuntu caffe cuda nvidia
+categories: 
+    - DeepLearning
+tags: 
+    - ubuntu 
+    - caffe 
+    - cuda 
+    - nvidia
 author: Daniel
 ---
 
