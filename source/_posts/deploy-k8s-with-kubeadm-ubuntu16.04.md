@@ -3,11 +3,11 @@ layout: post
 title: ubuntu16.04使用kubeadm部署k8s
 date: 2018-09-20
 tags:
-  - hexo
-  - blog
+  - k8s
+  - kubeadm
 categories: 
-  - web
-  - blog
+  - k8s
+  - docker
 author: Daniel
 ---
 
