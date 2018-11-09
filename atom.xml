@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Daniel&#39;s blog!</title>
+  
+  <subtitle>Life is fantastic!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-11-09T16:07:37.301Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Dainel Chao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>服务器性能测试</title>
+    <link href="http://yoursite.com/2018/11/01/server-performance-test/"/>
+    <id>http://yoursite.com/2018/11/01/server-performance-test/</id>
+    <published>2018-10-31T16:00:00.000Z</published>
+    <updated>2018-11-09T16:07:37.301Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-概述&quot;&gt;&lt;a href=&quot;#1-概述&quot; class=&quot;headerlink&quot; title=&quot;1 概述&quot;&gt;&lt;/a&gt;1 概述&lt;/h2&gt;&lt;h3 id=&quot;1-1背景&quot;&gt;&lt;a href=&quot;#1-1背景&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="http://yoursite.com/categories/linux/"/>
+    
+      <category term="server" scheme="http://yoursite.com/categories/linux/server/"/>
+    
+    
+      <category term="linux" scheme="http://yoursite.com/tags/linux/"/>
+    
+      <category term="performance" scheme="http://yoursite.com/tags/performance/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu16.04安装go1.9.2</title>
+    <link href="http://yoursite.com/2018/11/01/ubuntu16.04-install-go1.9.2/"/>
+    <id>http://yoursite.com/2018/11/01/ubuntu16.04-install-go1.9.2/</id>
+    <published>2018-10-31T16:00:00.000Z</published>
+    <updated>2018-11-09T16:07:37.301Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;安装步骤&quot;&gt;&lt;a href=&quot;#安装步骤&quot; class=&quot;headerlink&quot; title=&quot;安装步骤&quot;&gt;&lt;/a&gt;安装步骤&lt;/h4&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="http://yoursite.com/categories/linux/"/>
+    
+      <category term="software" scheme="http://yoursite.com/categories/linux/software/"/>
+    
+    
+      <category term="linux" scheme="http://yoursite.com/tags/linux/"/>
+    
+      <category term="software" scheme="http://yoursite.com/tags/software/"/>
+    
+      <category term="go" scheme="http://yoursite.com/tags/go/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Github Page和hexo创建博客全记录</title>
+    <link href="http://yoursite.com/2018/10/02/building-blog-with-hexo-and-githubpage/"/>
+    <id>http://yoursite.com/2018/10/02/building-blog-with-hexo-and-githubpage/</id>
+    <published>2018-10-01T16:00:00.000Z</published>
+    <updated>2018-11-09T16:07:37.301Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;安装git&quot;&gt;&lt;a href=&quot;#安装git&quot; class=&quot;headerlink&quot; title=&quot;安装git&quot;&gt;&lt;/a&gt;安装git&lt;/h2&gt;&lt;h2 id=&quot;安装Node-js&quot;&gt;&lt;a href=&quot;#安装Node-js&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="web" scheme="http://yoursite.com/categories/web/"/>
+    
+      <category term="blog" scheme="http://yoursite.com/categories/web/blog/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/10/01/hello-world/"/>
+    <id>http://yoursite.com/2018/10/01/hello-world/</id>
+    <published>2018-09-30T16:00:00.000Z</published>
+    <updated>2018-11-09T16:07:37.301Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="web" scheme="http://yoursite.com/categories/web/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/categories/web/hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu16.04安装最新版本Node.js</title>
+    <link href="http://yoursite.com/2018/09/27/ubuntu-install-latest-nodejs/"/>
+    <id>http://yoursite.com/2018/09/27/ubuntu-install-latest-nodejs/</id>
+    <published>2018-09-26T16:00:00.000Z</published>
+    <updated>2018-11-09T16:07:37.301Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;ubuntu自带的 node.js 版本太低&lt;br&gt;安装最新版本node.js需要两步即可&lt;br&gt;第一步，去 nodejs 官网 &lt;a href=&quot;https://nodejs.org&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="http://yoursite.com/categories/linux/"/>
+    
+      <category term="software" scheme="http://yoursite.com/categories/linux/software/"/>
+    
+    
+      <category term="linux" scheme="http://yoursite.com/tags/linux/"/>
+    
+      <category term="software" scheme="http://yoursite.com/tags/software/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ubuntu16.04使用kubeadm部署k8s</title>
+    <link href="http://yoursite.com/2018/09/20/deploy-k8s-with-kubeadm-ubuntu16.04/"/>
+    <id>http://yoursite.com/2018/09/20/deploy-k8s-with-kubeadm-ubuntu16.04/</id>
+    <published>2018-09-19T16:00:00.000Z</published>
+    <updated>2018-11-09T16:07:37.301Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;关闭防火墙-所有节点&quot;&gt;&lt;a href=&quot;#关闭防火墙-所有节点&quot; class=&quot;headerlink&quot; title=&quot;关闭防火墙(所有节点)&quot;&gt;&lt;/a&gt;关闭防火墙(所有节点)&lt;/h3&gt;&lt;figure class=&quot;highlight
+        
+      
+    
+    </summary>
+    
+      <category term="k8s" scheme="http://yoursite.com/categories/k8s/"/>
+    
+      <category term="docker" scheme="http://yoursite.com/categories/k8s/docker/"/>
+    
+    
+      <category term="k8s" scheme="http://yoursite.com/tags/k8s/"/>
+    
+      <category term="kubeadm" scheme="http://yoursite.com/tags/kubeadm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu16安装caffe</title>
+    <link href="http://yoursite.com/2018/05/24/ubuntu16-install-caffe/"/>
+    <id>http://yoursite.com/2018/05/24/ubuntu16-install-caffe/</id>
+    <published>2018-05-24T07:51:22.000Z</published>
+    <updated>2018-11-09T16:07:37.301Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;安装驱动&quot;&gt;&lt;a href=&quot;#安装驱动&quot; class=&quot;headerlink&quot; title=&quot;安装驱动&quot;&gt;&lt;/a&gt;安装驱动&lt;/h2&gt;&lt;h3 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="DeepLearning" scheme="http://yoursite.com/categories/DeepLearning/"/>
+    
+    
+      <category term="ubuntu" scheme="http://yoursite.com/tags/ubuntu/"/>
+    
+      <category term="caffe" scheme="http://yoursite.com/tags/caffe/"/>
+    
+      <category term="cuda" scheme="http://yoursite.com/tags/cuda/"/>
+    
+      <category term="nvidia" scheme="http://yoursite.com/tags/nvidia/"/>
+    
+  </entry>
+  
+</feed>
