@@ -345,9 +345,11 @@ ifconfig flannel.1 down
 ip link delete flannel.1
 rm -rf /var/lib/cni/
 
-
 使master node参与工作负载
 kubectl taint nodes --all node-role.kubernetes.io/master-
+
+查看该版本的容器镜像版本
+kubeadm config images list
 ```
 
 ## 忘记初始master节点时的node节点加入集群命令怎么办
